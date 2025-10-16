@@ -8,7 +8,7 @@ This project involves:
 * Training a K-Nearest Neighbors (KNN) classifier.
 * Evaluating model performance.
 
-🛠️ Libraries Used
+ Libraries Used
 Here are the libraries used in this project along with their versions (as of October 2025):
 LibraryVersionPurposepandas2.0.3Data manipulation and analysisnumpy1.24.3Numerical computationsscikit-learn1.3.0Machine learning algorithmsmatplotlib3.7.1Data visualizationseaborn0.12.2Statistical data visualizationkagglehub0.1.0Downloading datasets from Kagglemglearn0.1.0Additional plotting utilities
 To install these libraries, you can use pip:
@@ -32,7 +32,7 @@ bashDownloadCopy codepip install -r requirements.txt
 Running the Project
 Simply run the Jupyter notebook or Python script containing the code:
 bashDownloadCopy codepython crocodile_classification.py
-📂 Dataset
+ Dataset
 The dataset used in this project is the Global Crocodile Species Dataset from Kaggle. It contains various features related to crocodile observations, such as:
 
 * Age Class

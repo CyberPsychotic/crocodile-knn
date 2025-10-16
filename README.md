@@ -23,7 +23,7 @@ Installation
 
 1. Clone the repository:
 
-bashDownloadCopy codegit clone https://github.com/yourusername/crocodile-species-classification.git
+bashDownloadCopy codegit clone https://github.com/CyberPsychotic/crocodile-knn
 cd crocodile-species-classification
 
 1. Install the required libraries:
